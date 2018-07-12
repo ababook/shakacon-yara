@@ -8,7 +8,7 @@ rule shakacon2018jbradley: malz
 		$ip1 = "61.78.62.21"
 		$ip2 = "61.78.62.102"
 		$sha256a = "8029e7b12742d67fe13fcd53953e6b03ca4fa09b1d5755f8f8289eac08366efc" nocase
-		$sha256b = "5f7b13d0f259277e40e3711070121e451415d7d3a5e68382fc82c2fe3635db1" nocase
+		$sha256b = "a5f7b13d0f259277e40e3711070121e451415d7d3a5e68382fc82c2fe3635db1" nocase
 		$sha256c = "5b0cc5dd2897e697751b8204d8b74edd66466d651d233c76899c5521a60f6527" nocase
 		$backdoorfn1 = "/usr/local/bin/google-updater"
 		$backdoorfn2 = "/usr/local/bin/prl-monitor"
